@@ -1,0 +1,8 @@
+{
+  "name": "smartHome Security",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "d74235fa"
+}
